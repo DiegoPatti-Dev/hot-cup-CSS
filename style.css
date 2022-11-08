@@ -74,7 +74,7 @@ body {
 
 .plate {
   position: absolute;
-  bottom: 220px;
+  bottom: 270px;
   left: 50%;
   transform: translateX(-50%);
   width: 500px;
